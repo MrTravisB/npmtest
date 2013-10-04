@@ -6,8 +6,6 @@
   "author": "Travis Beauvais <tbeauvais@gmail.com>",
   "homepage": "http://github.com/MrTravisB/npmtest/",
   "licenses": ["MIT"],
-  "dependencies": {
-  },
   "repository": {
     "type" : "git",
     "url" : "http://github.com/MrTravisB/npmtest.git"
